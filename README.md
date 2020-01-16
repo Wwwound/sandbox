@@ -1,3 +1,2 @@
 TODO
-* KerasMNIST
-* CramersRuleXSolve
+* Empty
